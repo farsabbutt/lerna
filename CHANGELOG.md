@@ -1,3 +1,10 @@
+# [1.0.0-canary.2](https://github.com/farsabbutt/lerna/compare/v1.0.0-canary.1...v1.0.0-canary.2) (2023-12-03)
+
+
+### Features
+
+* **readme:** add more text to readme ([c2f97f8](https://github.com/farsabbutt/lerna/commit/c2f97f8ba49720c356bd0c275f337297a6315996))
+
 # 1.0.0-canary.1 (2023-12-03)
 
 
