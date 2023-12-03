@@ -2,7 +2,7 @@
 
 > TODO: description asd
 
-## Usage
+## Usage for this package
 
 ```
 const package1 = require('package-1');
